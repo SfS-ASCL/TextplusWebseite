@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+    <url>
+        <loc>http://www.text-plus.eu/index.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+    <url>
+        <loc>http://www.text-plus.eu/de/zusammenfassung.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+   
+    <url>
+        <loc>http://www.text-plus.eu/de/antragstellende.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+    <url>
+        <loc>http://www.text-plus.eu/de/beteiligte.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+    <url>
+        <loc>http://www.text-plus.eu/de/unterstuezende.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+    <url>
+        <loc>http://www.text-plus.eu/de/impressum.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+    <url>
+        <loc>http://www.text-plus.eu/en/abstract.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://www.text-plus.eu/en/applicants.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+    <url>
+        <loc>http://www.text-plus.eu/en/participants.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+    <url>
+        <loc>http://www.text-plus.eu/en/supporting.html</loc>
+        <lastmod>2020-02-07</lastmod>
+    </url>
+ 
+</urlset>
