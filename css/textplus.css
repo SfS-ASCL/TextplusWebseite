@@ -38,10 +38,3 @@ main {
 #initiative {
     
 }
-
-#a {
-    a.mylinkcolor:link {color: #910707;}
-    a.mylinkcolor:visited {color: #910707;}
-    a.mylinkcolor:active {color: #910707;}
-    a.mylinkcolor:hover {color: #aaa;}
-}
