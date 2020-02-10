@@ -20,8 +20,11 @@ body {
     line-height: 1.5;
     text-align: left;
     background-color: #f0f0f0;
+    overflow: auto;
 
 }
+
+
 
 a {
         color: #910707
@@ -29,7 +32,7 @@ a {
 
 
 main {
-    display: block;
+    display: contents;
     margin:auto
 }
 
@@ -53,4 +56,19 @@ font-size:80%;
     color: #fff;
     width:55%;
     margin-left:45%
+}
+
+
+
+.bd-toc {
+    position: sticky;
+    top: 4rem;
+    height: calc(100vh - 4rem);
+    overflow-y:auto;
+    -webkit-box-ordinal-group: 3;
+    order:2;
+    padding-top: 1.5rem;
+    padding-bottom:1.5rem;
+    font-size: .875rem;
+        
 }
