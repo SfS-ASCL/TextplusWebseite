@@ -38,3 +38,12 @@ main {
 #initiative {
     
 }
+
+#claimbox {
+    text-align:center;
+    font-size:x-small;
+    background-color: #50856e;
+    color: #fff;
+    width:55%;
+    margin-left:45%
+}
