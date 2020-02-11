@@ -10,7 +10,7 @@
 
 
 body {
-    padding-top: 0rem;
+    padding-top: 3rem;
     padding-bottom: 3rem;
     color: #5a5a5a;
     margin: 0;
@@ -61,22 +61,39 @@ font-size:80%;
 
 
 .right-toc {
+    margin-top:-3.8rem;   
     position: sticky;
     margin-left:auto;
     top: auto;
-    height: 10rem;
+    height: 12rem;
     overflow-y:auto;
     -webkit-box-ordinal-group: 1;
     order:1;
     padding-top: 1.5rem;
     padding-bottom:1.5rem;
     font-size: .875rem;
-    background-color:#afafaf;
+  /*  background-color:#afafaf;*/
        
 }
 
-@media (min-width:120px)
+ul.section-nav { 
+list-style-type:none;
+padding:0;
+}
+
+li.toc-entry {
+    background-color: #afafaf;
+    list-style-position:inside;
+    border: 2px solid #ffffff;
+    padding:.25rem;
+    border-radius: 10px;
+    min-width: 8rem;
+    text-align:center;
+}
 
 .col-xl-2 {
     max-width:20rem;
 }
+
+@media (min-width:120px)
+{ }
