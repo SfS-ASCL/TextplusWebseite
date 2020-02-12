@@ -8,7 +8,6 @@
 }
 
 
-
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
@@ -24,12 +23,26 @@ body {
 
 }
 
-
-
 a {
-        color: #910707
+    color: #910707;
 }
 
+a:link {
+    color: #910707;
+}
+
+a:hover {
+    color: #343a40;
+    text-decoration: none;
+    font-weight: 200;
+}
+
+.nav-link.menu-block.disabled {
+    color: #343a40;
+    font-weight: 400;
+    padding: 0;
+    
+}
 
 main {
     display: contents;
@@ -60,12 +73,13 @@ font-size:80%;
 
 
 
+
 .right-toc {
     margin-top:-3.8rem;   
     position: sticky;
-    margin-left:auto;
-    top: auto;
-    height: 12rem;
+    margin-left: auto;
+    top: 50px;
+    height: 20rem;
     overflow-y:auto;
     -webkit-box-ordinal-group: 1;
     order:1;
@@ -82,13 +96,26 @@ padding:0;
 }
 
 li.toc-entry {
-    background-color: #afafaf;
+    background-color: #d6d6d6;
     list-style-position:inside;
-    border: 2px solid #ffffff;
+    border: 2px solid #f0f0f0;
     padding:.25rem;
     border-radius: 10px;
     min-width: 8rem;
     text-align:center;
+}
+
+li.list-block {
+    background-color: #343a40;
+    border: 4px solid #f0f0f0;
+    padding:.25rem;
+    border-radius: 10px;
+    min-width: 8rem;
+    text-align:center;
+}
+
+a.list-block-link {
+    color: #ffffff;
 }
 
 .col-xl-2 {
@@ -99,12 +126,12 @@ li.toc-entry {
 { }
 
 h1 {
-font-size:2rem;
+font-size:1.5rem;
     
 }
 h2 {
-    font-size:1.5rem;
+    font-size:1.2rem;
 }
 h3 {
-    font-size:1.2rem;
+    font-size:1rem;
     }
