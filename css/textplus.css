@@ -105,7 +105,7 @@ li.toc-entry {
     text-align:center;
 }
 
-li.list-block {
+/*li.list-block {
 
     background-color: #7a3636;
 
@@ -114,11 +114,11 @@ li.list-block {
     border-radius: 10px;
     min-width: 8rem;
     text-align:center;
-}
+}*/
 
-a.list-block-link {
+/*a.list-block-link {
     color: #ffffff;
-}
+}*/
 
 .col-xl-2 {
     max-width:20rem;
