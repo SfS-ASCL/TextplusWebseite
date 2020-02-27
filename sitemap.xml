@@ -2,38 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
     <url>
         <loc>http://www.text-plus.org/index.html</loc>
-        <lastmod>2020-02-17</lastmod>
+        <lastmod>2020-02-26</lastmod>
     </url>
    
     <url>
         <loc>http://www.text-plus.org/de/antragstellende.html</loc>
-        <lastmod>2020-02-17</lastmod>
+        <lastmod>2020-02-26</lastmod>
     </url>
     <url>
         <loc>http://www.text-plus.org/de/beteiligte.html</loc>
-        <lastmod>2020-02-17</lastmod>
+        <lastmod>2020-02-26</lastmod>
     </url>
     <url>
         <loc>http://www.text-plus.org/de/unterstuezende.html</loc>
-        <lastmod>2020-02-17</lastmod>
+        <lastmod>2020-02-26</lastmod>
     </url>
     <url>
         <loc>http://www.text-plus.org/de/impressum.html</loc>
-        <lastmod>2020-02-17</lastmod>
+        <lastmod>2020-02-26</lastmod>
     </url>
-  
+    <url>
+        <loc>http://www.text-plus.org/de/nfdi-info.html</loc>
+        <lastmod>2020-02-26</lastmod>
+    </url>
     
     <url>
         <loc>http://www.text-plus.org/en/applicants.html</loc>
-        <lastmod>2020-02-17</lastmod>
+        <lastmod>2020-02-26</lastmod>
     </url>
     <url>
         <loc>http://www.text-plus.org/en/participants.html</loc>
-        <lastmod>2020-02-17</lastmod>
+        <lastmod>2020-02-26</lastmod>
     </url>
     <url>
         <loc>http://www.text-plus.org/en/supporting.html</loc>
-        <lastmod>2020-02-17</lastmod>
+        <lastmod>2020-02-26</lastmod>
     </url>
- 
+    <url>
+        <loc>http://www.text-plus.org/en/nfdi-info.html</loc>
+        <lastmod>2020-02-26</lastmod>
+    </url>
 </urlset>
